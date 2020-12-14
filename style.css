@@ -1,0 +1,70 @@
+html {
+    background: #f6d7fa
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 40px;
+    padding: 40px;
+    color: #433544
+    border-top: 10px solid #F49EFF;
+}
+
+h1 {
+    font-size: 4em;
+    margin:0;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2em;
+    background-color: rosybrown;
+    font-style: italic;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+a [href= "https://www.youtube.com/watch?v=jBP4jgtsJDU&t=2s"]{
+    color: #ffff
+}
+
+table {
+    display:flex;
+    text-align: center;
+    table-layout: auto;
+    border-spacing: 20px;
+    padding-left: 50px;
+    align-content: center;
+}
+
+.content {
+    padding: 16px;
+  } 
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%
+  }
+
+.sticky + .content {
+  padding-top: 102px;
+}
+
+@media (max-width: 400px) {
+    #b1 {
+        background: greenyellow;
+    }
+}
+
+img {
+    width: 100%;
+    height: auto;
+  }
+
+  form{
+      padding: 50px;
+  }
