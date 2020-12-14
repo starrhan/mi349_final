@@ -6,7 +6,7 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 40px;
     padding: 40px;
-    color: #433544
+    color: #433544;
     border-top: 10px solid #F49EFF;
 }
 
@@ -35,7 +35,6 @@ table {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    table-layout: center;
     border-spacing: 20px;
     align-content: center;
     padding: 30px;
