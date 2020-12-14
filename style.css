@@ -37,6 +37,7 @@ table {
     table-layout: auto;
     border-spacing: 20px;
     align-content: center;
+    padding: 30px;
 }
 
 .content {
