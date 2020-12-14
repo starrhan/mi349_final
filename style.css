@@ -32,9 +32,10 @@ a [href= "https://www.youtube.com/watch?v=jBP4jgtsJDU&t=2s"]{
 }
 
 table {
-    display:flex;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
-    table-layout: auto;
+    table-layout: center;
     border-spacing: 20px;
     align-content: center;
     padding: 30px;
